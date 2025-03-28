@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Deni Setiawan Pratama!<br>🔭 I’m a Web Developer, specializing in Frontend Development. Although I haven’t worked professionally yet, I continue to develop my skills by learning and building various small to large projects.<br>🌱 Currently, I’m focusing on studying Information Technology.
+# 💫 Hello Word!, I'm Deni, a Indonesia Web Developer 👋:
+🔭 I’m a Web Developer, specializing in Frontend Development. Although I haven’t worked professionally yet, I continue to develop my skills by learning and building various small to large projects.<br>🌱 Currently, I’m focusing on studying Information Technology.
 
 
 ## 🌐 Socials:
