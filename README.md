@@ -33,8 +33,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=denoyey&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
-<br>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=denoyey&icon=5&color=3)](https://visitcount.itsvg.in)
 
