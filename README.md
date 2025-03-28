@@ -11,5 +11,5 @@
 ![snake gif](https://github.com/denoyey/denoyey/blob/output/github-snake-dark.svg)
 
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=denoyey&icon-10&color-6)](https://visitcount.itsvg.in)
+  [![Visitor Count](https://visitcount.itsvg.in/api?id=denoyey&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
