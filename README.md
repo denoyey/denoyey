@@ -8,6 +8,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/denoyey/denoyey/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/denoyey/denoyey/blob/output/github-snake-dark.svg)
 
 ###
