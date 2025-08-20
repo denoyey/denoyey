@@ -1,5 +1,5 @@
-# Hello Word!, I'm Deni, a Indonesia Web Developer 👋:
-👨‍💻 I’m a Web Developer, specializing in Frontend Development. Although I haven’t worked professionally yet, I continue to develop my skills by learning and building various small to large projects.<br>⚡ Currently, I’m focusing on studying Information Technology. <br> 🔗 My Portfolio <a href="https://denisetiawanpratama-dev.netlify.app" target="__blank">click here</a>
+# Hello Word! I'm Deni — a Web Developer & Tool Maker from Indonesia 👋:
+👨‍💻 I build things for the web — from clean user interfaces to useful tools that solve real problems. I’m self-taught and still learning every day, constantly experimenting with different ideas, whether it’s a simple script or a full web app. <br> 💡 I haven't worked in a company (yet), but that hasn't stopped me from diving deep into development and shipping my own projects. <br> 🎓 Right now, I’m also studying Information Technology to strengthen my foundation. <br> 🔗 Portfolio: <a href="https://denisetiawanpratama-dev.netlify.app" target="__blank">click here</a>
 
 <br clear="both">
 
