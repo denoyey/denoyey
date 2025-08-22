@@ -37,6 +37,11 @@ No company experience yet, but I build, learn, and grow every day. <br>
 ![Grey Hat](https://img.shields.io/badge/🎩-Grey%20Hat-6e6e6e?style=for-the-badge&logo=hat&logoColor=white)
 <br>
 <br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Gedit](https://img.shields.io/badge/Gedit-2C001E?style=for-the-badge&logo=gnome&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+<br>
+<br>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
