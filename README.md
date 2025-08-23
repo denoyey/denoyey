@@ -61,7 +61,7 @@ No company experience yet, but I build, learn, and grow every day. <br>
   <img src="https://github.com/denoyey/denoyey/blob/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
-## 📱Contact
+## 📱 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/denoyey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denisetiawanpratama)
