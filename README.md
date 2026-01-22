@@ -9,7 +9,7 @@
 Hi, I'm <code>Deni</code> — self-taught web & script developer from Indonesia  🇮🇩 <br>
 I create clean UIs, helpful tools, and practical scripts. <br>
 No company experience yet, but I build, learn, and grow every day. <br>
-🔗 <a href="https://denisetiawanpratama-dev.vercel.app" target="__blank">Portfolio</a>
+🔗 <a href="https://denisetiawanpratama.vercel.app" target="__blank">Portfolio</a>
 </small>
 
 ## 🤖 Technologies & Tools:
