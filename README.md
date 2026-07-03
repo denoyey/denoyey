@@ -50,10 +50,7 @@ No company experience yet, but I build, learn, and grow every day. <br>
 
 ## 📈 Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denoyey&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denoyey&layout=compact&theme=dracula&langs_count=5" height="150" alt="Bahasa Teratas" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=denoyey&theme=calm&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 ## 🐍 GitHub Snake
 
