@@ -18,8 +18,10 @@ While continuously expanding my technical stack, I actively apply my skills thro
 ## 📊 Lifetime GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=denoyey&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&custom_title=Lifetime%20GitHub%20Stats" height="170" alt="Lifetime GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=denoyey&theme=monokai&hide_border=false&layout=compact&custom_title=Overall%20Top%20Languages" height="170" alt="Overall Top Languages" />
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/denoyey?cardType=level-alternate&theme=radical&fontFamily=IBM%20Plex%20Sans%20KR&preferLogin=true" height="170" alt="My Awesome Stats" />
+  </a>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=denoyey&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=denoyey&theme=monokai&hide_border=false" height="170" alt="GitHub Streak" />
 </p>
 
