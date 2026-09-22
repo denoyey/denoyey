@@ -172,12 +172,6 @@ While continuously expanding my technical stack, I actively apply my skills thro
 
 ---
 
-## Certifications
-- **Junior Network Administrator** – Badan Nasional Sertifikasi Profesi (BNSP)
-- **Penguatan Relawan Gerakan Kebajikan Pancasila 2026** – BPIP
-
----
-
 ## Activity Graph
 
 <div align="center">
