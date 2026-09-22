@@ -6,25 +6,47 @@
 
 ## Nice to see you here, friend! 👋
 
-Hi, I'm **Deni Setiawan Pratama** — an Information Technology undergraduate student and Full Stack Developer from Indonesia. 
+> **Deni Setiawan Pratama** — Information Technology Undergraduate & Full Stack Developer from Indonesia. Focusing on dynamic web applications, clean user interfaces, and robust network infrastructures.
 
-I specialize in building dynamic web applications, designing clean user interfaces, and managing network infrastructures. While continuously expanding my technical stack, I actively apply my skills through hands-on projects, organizational leadership, and practical field experience.
+While continuously expanding my technical stack, I actively apply my skills through hands-on projects, organizational leadership, and practical field experience. I build, learn, and grow every day.
 
-* **Current Focus:** Full Stack Web Development (Laravel, React, Next.js) & Mobile App Development.
 * **Portfolio:** [denoy.id](https://denoy.id)
-* **Contact:** denisetiawan@example.com <!-- Ganti dengan email aslimu -->
+* **Contact:** [denoy.id/contact](https://denoy.id/contact)
 
 ---
 
-## Experience & Achievements
+## Real-Time GitHub Statistics
 
-* **Praktik Kerja Lapangan Assistant** | *PT Arthawenasakti Gemilang*
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=denoyey&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoyey&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+
+</div>
+<br>
+<div align="center">
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=denoyey&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+---
+
+## Experience & Featured Projects
+
+### Work & Organization
+* **Praktik Kerja Lapangan Assistant | PT Arthawenasakti Gemilang**
   Assisted with General Affair operations and supported field IT teams with infrastructure maintenance and CCTV cabling.
-* **Divisi Litbang (R&D)** | *Himpunan Mahasiswa Teknologi Informasi (HMTI)*
+* **Divisi Litbang (R&D) | Himpunan Mahasiswa Teknologi Informasi (HMTI)**
   Organized the CodeCraft web development study club and served on the academic committee for Olimpiade HMTI 2026, structuring the MikroTik Student Networking Competition.
-* **2nd Place Winner** | *FigmaCraft UI/UX Design Competition*
-  Designed the user interface and user experience for the "DAPUR BU TINI" project.
-* **Key Projects:** Developed the official HMTI University website, a financial tracking app (SakuTracker), and various landing pages (Petos).
+
+### Key Projects & Achievements
+* **Petos:** Developed an interactive and responsive product landing page.
+* **SakuTracker:** Built a comprehensive financial tracking application.
+* **HMTI University Website:** Developed and deployed the official website for the university's IT student association.
+* **DAPUR BU TINI:** Won 2nd Place in the FigmaCraft UI/UX Design Competition.
 
 ---
 
@@ -75,25 +97,10 @@ I specialize in building dynamic web applications, designing clean user interfac
 ---
 
 ## Certifications
-- **Junior Network Administrator** – *Badan Nasional Sertifikasi Profesi (BNSP)*
-- **Penguatan Relawan Gerakan Kebajikan Pancasila 2026** – *BPIP*
+- **Junior Network Administrator** – Badan Nasional Sertifikasi Profesi (BNSP)
+- **Penguatan Relawan Gerakan Kebajikan Pancasila 2026** – BPIP
 
 ---
-
-## Real-Time GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denoyey&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoyey&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=denoyey&theme=github-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
-  </a>
-</div>
 
 ## Activity Graph
 
@@ -101,9 +108,12 @@ I specialize in building dynamic web applications, designing clean user interfac
   <img src="https://github.com/denoyey/denoyey/blob/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
----
+<br>
 
-## Connect with me
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://denoy.id)
+  [![Contact](https://img.shields.io/badge/Contact-0A66C2?style=for-the-badge&logo=minutemailer&logoColor=white)](https://denoy.id/contact)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denisetiawanpratama)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/denoyey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denisetiawanpratama)
+</div>
