@@ -22,7 +22,7 @@ While continuously expanding my technical stack, I actively apply my skills thro
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/denoyey?cardType=level-alternate&theme=radical&fontFamily=IBM%20Plex%20Sans%20KR&preferLogin=true" height="170" alt="My Awesome Stats" />
   </a>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=denoyey&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=denoyey&theme=monokai&hide_border=false" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=denoyey&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Streak" />
 </p>
 
 ---
