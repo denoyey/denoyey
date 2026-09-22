@@ -17,16 +17,17 @@ While continuously expanding my technical stack, I actively apply my skills thro
 
 ## Real-Time GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denoyey&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoyey&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=denoyey&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
-  </a>
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/denoyey?cardType=level-alternate&theme=radical&fontFamily=IBM%20Plex%20Sans%20KR&preferLogin=true)](https://git.io/awesome-stats-card)
+
+</div>
+<br>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=denoyey&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_border=true&bg_color=0D1117)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
