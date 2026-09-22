@@ -18,17 +18,15 @@ While continuously expanding my technical stack, I actively apply my skills thro
 ## Real-Time GitHub Statistics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=denoyey&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoyey&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denoyey&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/denoyey)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denoyey&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/denoyey)
 
 </div>
 <br>
 <div align="center">
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=denoyey&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Streak" />
-  </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=denoyey&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_border=true&bg_color=0D1117)](https://git.io/streak-stats)
 
 </div>
 
